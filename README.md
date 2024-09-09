@@ -5,6 +5,8 @@
 
 <img align="right" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" />
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ali199&label=Profile%20views&color=0e75b6&style=flat" alt="ali199" /> </p>
+
 <h4 align="left">My Skills 🚀</h4>
 
 - 🔭 I’m currently working on **JavaScript, Angular, and React**
