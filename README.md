@@ -1,3 +1,5 @@
+![logo](https://github.com/ali199/ali199/blob/main/ali-haider-front-end-development.webp)
+
 <h1 align="center">Hi 👋, I'm Ali Haider</h1>
 <h4 align="center">A Front-End Javascript Developer, with excellent problem-solving skills. I have a great passion for creating user-friendly and accessible web applications using different technologies.</h4>
 
