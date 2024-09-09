@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ali Haider</h1>
 <h4 align="center">A full-stack Web Developer, with excellent problem solving skills. I have great passion for creating user-friendly and accessible web applications using differnt technologies.</h4>
 
+<img align="right" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" />
+
 <h4 align="left">My Skills 🚀</h4>
 
 - 🔭 I’m currently working on **JavaScript, Angular, and React**
