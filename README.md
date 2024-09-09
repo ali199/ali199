@@ -3,12 +3,12 @@
 
 <h4 align="left">My Skills 🚀</h4>
 
-- ⭐ Looking forward to become a Software Engineer
-- 🔭 I’m currently working on Javascript Framworks (React, Angular).
-- 🌱 I’m currently learning <b>Full Stack Development</b>.
-- 👯 I’m looking to collaborate on Javascripts Libs, React, Angular.
+- 🔭 I’m currently working on **JavaScript, Angular, and React**
+- 🌱 I’m currently learning **MongoDB, Vue.js, dotnet Boilerplate**
+- 👯 I’m looking to collaborate on **Javascripts Libs, React, Angular**
+- ⭐ Looking forward to become a **Full Stack Development**
 - 📫 How to reach me at: **haiderali.hunk@gmail.com**
-- ⚡ Fun fact: music during work, love to watch movies & series 
+- ⚡ Fun fact **When I'm not coding, I'm busy leveling up in Lord Mobile!**
 
 <p align="left"></p>
 <br />
